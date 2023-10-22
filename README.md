@@ -1,2 +1,2 @@
-# grafana-dashboard
-Grafana Dashboard for kubernetes monitoring 
+# Grafana Dashboard for Kubernetes Monitoring 
+
